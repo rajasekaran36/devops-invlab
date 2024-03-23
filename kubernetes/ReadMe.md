@@ -5,6 +5,8 @@ kubectl get pods
 ```
 
 # Simple Flask App - Deployment 
+
+### service.yml
 ```yml
 apiVersion: v1
 kind: Service
